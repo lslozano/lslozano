@@ -24,7 +24,7 @@
     <h4>:scroll: Some facts about me:</h4>
     <ul>
       <li>:computer: Problem solver with the skills needed to write clean, organized and structured code.</li>
-      <li>:microscope: Completed the Introduction to Computer Science course by Harvard University</li>
+      <li>:microscope: Completed CS50 - Introduction to Computer Science course by Harvard University</li>
       <li>:globe_with_meridians: Experience working remotely.</li>
       <li>:eye: Keen eye for patterns, consistency and extensive hands on reviewing designs and meeting product requirements.</li>
       <li>:zap: Always setting aside time to learn and practice new things via courses or self made projects.</li>
