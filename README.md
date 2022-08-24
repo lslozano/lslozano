@@ -23,9 +23,10 @@
   <div id="facts">
     <h4>:scroll: Some facts about me:</h4>
     <ul>
-      <li>:computer: Problem solver.</li>
+      <li>:computer: Problem solver with the skills needed to write clean, organized and structured code.</li>
+      <li>:microscope: Completed the Introduction to Computer Science course by Harvard University</li>
       <li>:globe_with_meridians: Experience working remotely.</li>
-      <li>:eye: Keen eye for patterns, consistency and extensive hands on reviewing Figma and Sketch designs.</li>
+      <li>:eye: Keen eye for patterns, consistency and extensive hands on reviewing designs and meeting product requirements.</li>
       <li>:zap: Always setting aside time to learn and practice new things via courses or self made projects.</li>
       <li>:books: Bookworm.</li>
       <li>:video_game: Gamer.</li>
@@ -54,9 +55,9 @@
 <div id="current_activities">
   <h4>:writing_hand: Current personal activities:</h4>
   <ul>
-    <li>:notebook: Working on my personal blog</li>
-    <li>:fountain_pen: Writing articles for my blog</li>
-    <li>:microscope: Going through a computer science course</li>
+    <li>:notebook: Working on creating my portfolio</li>
+    <li>:books: Reading programming books</li>
+    <li>:purple_heart: Continuing a CSS course</li>
   </ul>
 </div>
 
