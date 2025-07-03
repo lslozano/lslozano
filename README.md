@@ -58,7 +58,7 @@
   <ul>
     <li>:notebook: Playing boardgames</li>
     <li>:books: Learning to play piano</li>
-    <li>:purple_heart: Taking <a href="https://pll.harvard.edu/course/cs50s-introduction-databases-sql">CS50’s Introduction to Databases with SQL</a> course</li>
+    <li>:purple_heart: Learning in depth CSS through <a href="https://css-for-js.dev/">CSS for JS Devs</a> course</li>
   </ul>
 </div>
 
